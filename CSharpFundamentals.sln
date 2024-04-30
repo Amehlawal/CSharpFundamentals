@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{BE8C7C3B-91EF-4604-9448-16EF87A4FA98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{64AC195F-18CD-401E-A08D-9505AD086B3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BE8C7C3B-91EF-4604-9448-16EF87A4FA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE8C7C3B-91EF-4604-9448-16EF87A4FA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE8C7C3B-91EF-4604-9448-16EF87A4FA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AC195F-18CD-401E-A08D-9505AD086B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC195F-18CD-401E-A08D-9505AD086B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC195F-18CD-401E-A08D-9505AD086B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC195F-18CD-401E-A08D-9505AD086B3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
