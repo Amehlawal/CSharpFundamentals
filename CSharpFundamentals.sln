@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If", "If\If.csproj", "{6351
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{A90C2A54-13D7-41A7-9682-6867983DC0E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicalOperators", "logicalOperators\logicalOperators.csproj", "{8F0708B9-51AA-456C-822F-C2847ED90396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A90C2A54-13D7-41A7-9682-6867983DC0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90C2A54-13D7-41A7-9682-6867983DC0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90C2A54-13D7-41A7-9682-6867983DC0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0708B9-51AA-456C-822F-C2847ED90396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0708B9-51AA-456C-822F-C2847ED90396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0708B9-51AA-456C-822F-C2847ED90396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0708B9-51AA-456C-822F-C2847ED90396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
