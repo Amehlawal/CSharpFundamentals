@@ -41,6 +41,14 @@
                 Console.WriteLine($"{name}");
             }
 
+            List<Animal> animals = new List<Animal>();
+
+            animals.Add(new Animal(12, "Lord Max"));
+            foreach(var animal in animals)
+            {
+                Console.WriteLine(animal._name);
+            }
+            
         }
     }
 }

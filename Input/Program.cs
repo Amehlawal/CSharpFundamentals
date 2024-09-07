@@ -10,6 +10,8 @@
             Console.WriteLine("What's your age?");
             int age = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine(age.GetType());
+
             Console.WriteLine("Hello " + name);
             Console.WriteLine("Hello I am " + age + " years old");
         }
