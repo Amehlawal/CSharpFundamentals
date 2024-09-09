@@ -13,17 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Input", "Input\Input.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hypotenuseCalc", "hypotenuseCalc\hypotenuseCalc.csproj", "{1C7DDD36-CAF3-4CED-8641-42B58808BC10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{12146665-F275-49F4-962E-D5C2B97130D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String", "String\String.csproj", "{12146665-F275-49F4-962E-D5C2B97130D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If", "If\If.csproj", "{6351B13F-A8E9-4150-8442-EA2141956E99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{6351B13F-A8E9-4150-8442-EA2141956E99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{A90C2A54-13D7-41A7-9682-6867983DC0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch", "switch\switch.csproj", "{A90C2A54-13D7-41A7-9682-6867983DC0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicalOperators", "logicalOperators\logicalOperators.csproj", "{8F0708B9-51AA-456C-822F-C2847ED90396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "logicalOperators", "logicalOperators\logicalOperators.csproj", "{8F0708B9-51AA-456C-822F-C2847ED90396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestedloops", "nestedloops\nestedloops.csproj", "{1CF976DE-D1B9-4E2A-A6D3-D35D354B0CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nestedloops", "nestedloops\nestedloops.csproj", "{1CF976DE-D1B9-4E2A-A6D3-D35D354B0CE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessing", "NumberGuessing\NumberGuessing.csproj", "{A172CA31-E08C-49D5-8D58-43E250F6498A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGuessing", "NumberGuessing\NumberGuessing.csproj", "{A172CA31-E08C-49D5-8D58-43E250F6498A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{3ACC279E-F635-4E5A-B8CA-A5B623A39161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{AB818C24-48E4-46ED-9A27-EA18A015BEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{CC2AE5EA-BC8F-4D0B-B237-D93C11EE7FDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{A172CA31-E08C-49D5-8D58-43E250F6498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A172CA31-E08C-49D5-8D58-43E250F6498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A172CA31-E08C-49D5-8D58-43E250F6498A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACC279E-F635-4E5A-B8CA-A5B623A39161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACC279E-F635-4E5A-B8CA-A5B623A39161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACC279E-F635-4E5A-B8CA-A5B623A39161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACC279E-F635-4E5A-B8CA-A5B623A39161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB818C24-48E4-46ED-9A27-EA18A015BEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB818C24-48E4-46ED-9A27-EA18A015BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB818C24-48E4-46ED-9A27-EA18A015BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB818C24-48E4-46ED-9A27-EA18A015BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2AE5EA-BC8F-4D0B-B237-D93C11EE7FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2AE5EA-BC8F-4D0B-B237-D93C11EE7FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2AE5EA-BC8F-4D0B-B237-D93C11EE7FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2AE5EA-BC8F-4D0B-B237-D93C11EE7FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
